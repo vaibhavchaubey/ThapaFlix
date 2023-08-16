@@ -21,7 +21,7 @@ const Footer = () => {
           <div className={footerStyles.top}>
             <div className={footerStyles['logo-details']}>
               {/*<i className={footerStyles.fab fa-slack]></i>*/}
-              <span className={footerStyles.logo_name}>Thapa Technical</span>
+              <span className={footerStyles.logo_name}>Vaibhav Chaubey</span>
             </div>
             <div className={footerStyles[`media-icons`]}>
               <Link href="#">
