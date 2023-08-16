@@ -136,7 +136,7 @@ const Footer = () => {
             <span className={footerStyles.copyright_text}>
               {' '}
               Copyright © 2023
-              <Link href="/>"> Thapa Technical.</Link> All rights reserved{' '}
+              <Link href="/>"> Vaibhav Chaubey </Link> All rights reserved{' '}
             </span>
             <span className={footerStyles.policy_terms}>
               <Link href="/">Privacy policy</Link>
